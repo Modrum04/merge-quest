@@ -1,2 +1,2 @@
 # merge-quest
-quelques lignes de texte dans le fichier README.md
+LOCAL lignes de texte dans le fichier README.md
